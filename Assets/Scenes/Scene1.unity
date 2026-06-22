@@ -2071,7 +2071,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d1faca316a24ca4a8dd529f796da61f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TextSystem
-  tipoCurso: 2
+  tipoCurso: 0
   notasLaboratorio:
   - {fileID: 508380845}
   - {fileID: 2142416720}
